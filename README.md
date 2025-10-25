@@ -2,9 +2,9 @@
 
 ### 🚀 Automation and Control Engineer | Embedded Systems | Robotics & Automotive Systems Enthusiast
 
-I’m a motivated engineer specializing in process automation, embedded control, and intelligent system design. My experience spans across industrial automation, robotics, and automotive powertrain systems, where I’ve worked on real-time control, data acquisition, and system optimization.**
-I’ve contributed to projects in Advanced Driver Assistance Systems (ADAS) and electric vehicle drivetrain development, focusing on control algorithms, system modeling, and embedded implementation. My technical background combines PLC/SCADA systems, embedded microcontrollers (STM32, Raspberry Pi), and simulation tools (MATLAB/Simulink, COMSOL, ANSYS) to create reliable and efficient automation solutions.**
-I’m passionate about mechatronic integration, model-based development, and cross-disciplinary collaboration to design smarter, safer, and more efficient control systems—whether in pharmaceutical automation, robotics, or automotive applications.**
+I’m a motivated engineer specializing in process automation, embedded control, and intelligent system design. My experience spans across industrial automation, robotics, and automotive powertrain systems, where I’ve worked on real-time control, data acquisition, and system optimization.
+I’ve contributed to projects in Advanced Driver Assistance Systems (ADAS) and electric vehicle drivetrain development, focusing on control algorithms, system modeling, and embedded implementation. My technical background combines PLC/SCADA systems, embedded microcontrollers (STM32, Raspberry Pi), and simulation tools (MATLAB/Simulink, COMSOL, ANSYS) to create reliable and efficient automation solutions.
+I’m passionate about mechatronic integration, model-based development, and cross-disciplinary collaboration to design smarter, safer, and more efficient control systems—whether in pharmaceutical automation, robotics, or automotive applications.
 
 - 🔭 I'm currently working on **Working on model-based automation and embedded control systems for robotics, ADAS, and industrial applications using PLCs and embedded microcontrollers.**
 
