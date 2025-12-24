@@ -6,13 +6,13 @@ I’m a motivated engineer specializing in process automation, embedded control,
 I’ve contributed to projects in Advanced Driver Assistance Systems (ADAS) and electric vehicle drivetrain development, focusing on control algorithms, system modeling, and embedded implementation. My technical background combines PLC/SCADA systems, embedded microcontrollers (STM32, Raspberry Pi), and simulation tools (MATLAB/Simulink, COMSOL, ANSYS) to create reliable and efficient automation solutions.
 I’m passionate about mechatronic integration, model-based development, and cross-disciplinary collaboration to design smarter, safer, and more efficient control systems—whether in pharmaceutical automation, robotics, or automotive applications.
 
-- 🔭 I'm currently working on **Working on model-based automation and embedded control systems for robotics, ADAS, and industrial applications using PLCs and embedded microcontrollers.**
+- 🔭 **Working on model-based automation and embedded control systems for robotics, ADAS, and industrial applications using PLCs and embedded microcontrollers.**
 
-- 🌱 I'm currently learning **I am currently learning process automation controllers, SCADA, DAQ, DCS, embedded microcontrollers, industrial networks, security, and AI-integrated embedded systems.**
+- 🌱 **I am currently learning process automation controllers, SCADA, DAQ, DCS, embedded microcontrollers, industrial networks, security, and AI-integrated embedded systems.**
 
-- 👯 I'm looking to collaborate on **Looking to collaborate on industrial automation, embedded control, and robotics projects integrating PLCs, sensors, and intelligent control systems.**
+- 👯 **Looking to collaborate on industrial automation, embedded control, and robotics projects integrating PLCs, sensors, and intelligent control systems.**
 
-- 💬 Ask me about **Process automation, embedded systems, robotics integration, control algorithms, and industrial communication protocols**
+- 💬 **Process automation, embedded systems, robotics integration, control algorithms, and industrial communication protocols**
 
 - 📫 How to reach me **pardeshi.kunal@outlookcom**
 
